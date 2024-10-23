@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-22T18:29:52 IST" name="Default suite" finished-at="2024-10-22T18:30:04 IST" duration-ms="12390">
+    <groups>
+    </groups>
+    <test started-at="2024-10-22T18:29:52 IST" name="Default test" finished-at="2024-10-22T18:30:04 IST" duration-ms="12390">
+      <class name="Listeners.TC_3_VerifyLoginAndLogout">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:48 IST" name="launchBrowser" finished-at="2024-10-22T18:29:52 IST" duration-ms="3876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:52 IST" name="launchURL" finished-at="2024-10-22T18:29:58 IST" duration-ms="5775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method is-config="true" signature="waitingTime()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="waitingTime" finished-at="2024-10-22T18:29:58 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime -->
+        <test-method signature="enterUsername()[pri:1, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="enterUsername" finished-at="2024-10-22T18:29:58 IST" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUsername -->
+        <test-method is-config="true" signature="waitingTime1()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="waitingTime1" finished-at="2024-10-22T18:29:58 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime1 -->
+        <test-method is-config="true" signature="waitingTime()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="waitingTime" finished-at="2024-10-22T18:29:58 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime -->
+        <test-method signature="enterPassword()[pri:2, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="enterPassword" finished-at="2024-10-22T18:29:58 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method is-config="true" signature="waitingTime1()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="waitingTime1" finished-at="2024-10-22T18:29:58 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime1 -->
+        <test-method is-config="true" signature="waitingTime()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:58 IST" name="waitingTime" finished-at="2024-10-22T18:29:59 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime -->
+        <test-method signature="clickLogin()[pri:3, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:59 IST" name="clickLogin" finished-at="2024-10-22T18:29:59 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogin -->
+        <test-method is-config="true" signature="waitingTime1()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:59 IST" name="waitingTime1" finished-at="2024-10-22T18:29:59 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime1 -->
+        <test-method is-config="true" signature="waitingTime()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:59 IST" name="waitingTime" finished-at="2024-10-22T18:29:59 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime -->
+        <test-method signature="clickUserDropdown()[pri:4, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:29:59 IST" name="clickUserDropdown" finished-at="2024-10-22T18:30:02 IST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickUserDropdown -->
+        <test-method is-config="true" signature="waitingTime1()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:30:02 IST" name="waitingTime1" finished-at="2024-10-22T18:30:02 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime1 -->
+        <test-method is-config="true" signature="waitingTime()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:30:02 IST" name="waitingTime" finished-at="2024-10-22T18:30:02 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime -->
+        <test-method signature="clickLogout()[pri:5, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:30:02 IST" name="clickLogout" finished-at="2024-10-22T18:30:04 IST" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method is-config="true" signature="waitingTime1()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:30:04 IST" name="waitingTime1" finished-at="2024-10-22T18:30:04 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitingTime1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Listeners.TC_3_VerifyLoginAndLogout@5b218417]" started-at="2024-10-22T18:30:04 IST" name="closeBrowser" finished-at="2024-10-22T18:30:06 IST" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Listeners.TC_3_VerifyLoginAndLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
